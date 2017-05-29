@@ -12932,11 +12932,12 @@ var Input = function (_Component) {
 					// If it's a fully-entered phone number
 					// that converts into a valid national number for this country
 					// then the value is set to be that national number.
+					console.info('7');
 
 					var parsed = (0, _libphonenumberJs.parse)(value, metadata);
 
 					if (parsed.country === country_code) {
-						return this.format(parsed.phone, country_code).text;
+						return this.format(parsed.phone, country_code, 'International').text;
 					}
 
 					// Else the leading + sign is trimmed.
@@ -13053,6 +13054,7 @@ var Input = function (_Component) {
 			// This code is executed:
 			// * after `onChange` is called
 			// * if the `value` was eternally set
+			console.log('c: ', value, new_props.value, this.state.value_property);
 			if (new_props.value !== value) {
 				// Ignore self `onChange` calls
 				// (because the library called `onChange` by itself).
@@ -13071,6 +13073,7 @@ var Input = function (_Component) {
 						country_code = (0, _libphonenumberJs.parse)(new_props.value).country || country_code;
 					}
 
+					console.log('ccc: ', this.correct_value_depending_on_the_country_selected(new_props.value, country_code));
 					this.setState({
 						country_code: country_code,
 						value: this.correct_value_depending_on_the_country_selected(new_props.value, country_code)
@@ -13337,27 +13340,30 @@ var _initialiseProps = function _initialiseProps() {
 			// If switching to a country from International
 			if (!previous_country_code && country_code) {
 				// The value is international plaintext
+				console.info('0', value);
 				var parsed = (0, _libphonenumberJs.parse)(value, metadata);
 
 				// If it's for this country,
 				// then convert it to a national number
 				if (parsed.country === country_code) {
-					value = _this3.format(parsed.phone, country_code).text;
+					console.info('1', parsed);
+					value = _this3.format(parsed.phone, country_code, 'International').text;
 				}
 				// Else just trim the + sign
 				else {
-						value = value.slice(1);
+						console.info('2', value);
+						value = _this3.format(value.slice(1), country_code, 'International').text;
 					}
 			}
 
 			if (previous_country_code && country_code) {
 				if (value[0] === '+') {
+					console.info('22', value);
 					var _parsed = (0, _libphonenumberJs.parse)(value, metadata);
-
 					if (_parsed.country === country_code) {
-						value = _this3.format(_parsed.phone, country_code).text;
+						value = _this3.format(_parsed.phone, country_code, 'International').text;
 					} else {
-						value = value.slice(1);
+						value = _this3.format(value.slice(1), country_code, 'International').text;
 					}
 				}
 			}
@@ -13368,7 +13374,8 @@ var _initialiseProps = function _initialiseProps() {
 				if (value[0] !== '+') {
 					// Take the international plaintext value
 					var national_number = parse_partial_number(value, previous_country_code, metadata).national_number;
-					value = (0, _libphonenumberJs.format)(national_number, previous_country_code, 'International_plaintext', metadata);
+					console.info('5', value, national_number, (0, _libphonenumberJs.format)(national_number, previous_country_code, 'International_plaintext', metadata), e164(value, country_code, metadata));
+					value = (0, _libphonenumberJs.format)(national_number, previous_country_code, 'International', metadata);
 				}
 			}
 
@@ -13477,6 +13484,7 @@ var _initialiseProps = function _initialiseProps() {
 		// If the `<input/>` is empty then just exit
 
 		if (!value) {
+			console.log('y: ', value);
 			return _this3.setState({
 				// State `value` is the parsed input value
 				// (e.g. `+78005553535`, `1234567`).
@@ -13518,6 +13526,7 @@ var _initialiseProps = function _initialiseProps() {
 		// then prepend it to the `value`.
 		else if (!country_code) {
 				value = '+' + value;
+				console.log('yy: ', value);
 			}
 
 		// `value` in E.164 phone number format
@@ -13535,9 +13544,11 @@ var _initialiseProps = function _initialiseProps() {
 			// Should be a most-probably-valid phone number
 			else {
 					// Convert `value` to E.164 phone number format
+					console.info('6');
 					value_property = e164(value, country_code, metadata);
 				}
 
+		console.log('yyy: ', value, value_property);
 		_this3.setState({
 			// State `value` is the parsed input value
 			// (e.g. `+78005553535`, `1234567`).
@@ -13595,17 +13606,20 @@ function e164(value, country_code, metadata) {
 
 	if (country_code) {
 		if (value[0] === '+') {
+			console.log('x: ', value, (0, _libphonenumberJs.getPhoneCode)());
 			return value;
 		}
 
 		var partial_national_number = parse_partial_number(value, country_code).national_number;
-		return (0, _libphonenumberJs.format)(partial_national_number, country_code, 'International_plaintext', metadata);
+		return (0, _libphonenumberJs.format)(partial_national_number, country_code, 'International', metadata);
 	}
 
 	if (value[0] === '+') {
+		console.log('xx: ', value);
 		return value;
 	}
 
+	console.log('xxx: ', value);
 	return '+' + value;
 }
 
