@@ -1,970 +1,782 @@
 [
-	[
-		"af",
-		"Afghanistan (‫افغانستان‬‎)"
-	],
-	[
-		"ax",
-		"Åland Islands"
-	],
-	[
-		"al",
-		"Albania (Shqipëri)"
-	],
-	[
-		"dz",
-		"Algeria (‫الجزائر‬‎)"
-	],
-	[
-		"as",
-		"American Samoa (Amerika Sāmoa)"
-	],
-	[
-		"ad",
-		"Andorra"
-	],
-	[
-		"ao",
-		"Angola"
-	],
-	[
-		"ai",
-		"Anguilla"
-	],
-	[
-		"ag",
-		"Antigua and Barbuda"
-	],
-	[
-		"ar",
-		"Argentina"
-	],
-	[
-		"am",
-		"Armenia (Հայաստան)"
-	],
-	[
-		"aw",
-		"Aruba"
-	],
-	[
-		"au",
-		"Australia"
-	],
-	[
-		"at",
-		"Austria (Österreich)"
-	],
-	[
-		"az",
-		"Azerbaijan (Azərbaycan)"
-	],
-	[
-		"bs",
-		"Bahamas"
-	],
-	[
-		"bh",
-		"Bahrain (‫البحرين‬‎)"
-	],
-	[
-		"bd",
-		"Bangladesh (বাংলাদেশ)"
-	],
-	[
-		"bb",
-		"Barbados"
-	],
-	[
-		"by",
-		"Belarus (Беларусь)"
-	],
-	[
-		"be",
-		"Belgium (België)"
-	],
-	[
-		"bz",
-		"Belize"
-	],
-	[
-		"bj",
-		"Benin (Bénin)"
-	],
-	[
-		"bm",
-		"Bermuda"
-	],
-	[
-		"bt",
-		"Bhutan (འབྲུག)"
-	],
-	[
-		"bo",
-		"Bolivia"
-	],
-	[
-		"ba",
-		"Bosnia and Herzegovina"
-	],
-	[
-		"bw",
-		"Botswana"
-	],
-	[
-		"br",
-		"Brazil (Brasil)"
-	],
-	[
-		"io",
-		"British Indian Ocean Territory"
-	],
-	[
-		"vg",
-		"British Virgin Islands"
-	],
-	[
-		"bn",
-		"Brunei (Negara Brunei Darussalam)"
-	],
-	[
-		"bg",
-		"Bulgaria (България)"
-	],
-	[
-		"bf",
-		"Burkina Faso"
-	],
-	[
-		"bi",
-		"Burundi (Uburundi)"
-	],
-	[
-		"kh",
-		"Cambodia (កម្ពុជា)"
-	],
-	[
-		"cm",
-		"Cameroon (Cameroun)"
-	],
-	[
-		"ca",
-		"Canada"
-	],
-	[
-		"cv",
-		"Cape Verde (Kabu Verdi)"
-	],
-	[
-		"bq",
-		"Caribbean Netherlands"
-	],
-	[
-		"ky",
-		"Cayman Islands"
-	],
-	[
-		"cf",
-		"Central African Republic"
-	],
-	[
-		"td",
-		"Chad (Tchad)"
-	],
-	[
-		"cl",
-		"Chile"
-	],
-	[
-		"cn",
-		"China (中国)"
-	],
-	[
-		"cx",
-		"Christmas Island"
-	],
-	[
-		"cc",
-		"Cocos (Keeling) Islands"
-	],
-	[
-		"co",
-		"Colombia"
-	],
-	[
-		"km",
-		"Comoros (‫جزر القمر‬‎)"
-	],
-	[
-		"cd",
-		"Congo (DRC) (Kongo)"
-	],
-	[
-		"cg",
-		"Congo (Republic) (Congo-Brazzaville)"
-	],
-	[
-		"ck",
-		"Cook Islands"
-	],
-	[
-		"cr",
-		"Costa Rica"
-	],
-	[
-		"ci",
-		"Côte d’Ivoire"
-	],
-	[
-		"hr",
-		"Croatia (Hrvatska)"
-	],
-	[
-		"cu",
-		"Cuba"
-	],
-	[
-		"cw",
-		"Curaçao"
-	],
-	[
-		"cy",
-		"Cyprus (Κύπρος)"
-	],
-	[
-		"cz",
-		"Czech Republic (Česká republika)"
-	],
-	[
-		"dk",
-		"Denmark (Danmark)"
-	],
-	[
-		"dj",
-		"Djibouti"
-	],
-	[
-		"dm",
-		"Dominica"
-	],
-	[
-		"do",
-		"Dominican Republic"
-	],
-	[
-		"ec",
-		"Ecuador"
-	],
-	[
-		"eg",
-		"Egypt (‫مصر‬‎)"
-	],
-	[
-		"sv",
-		"El Salvador"
-	],
-	[
-		"gq",
-		"Equatorial Guinea (Guinea Ecuatorial)"
-	],
-	[
-		"er",
-		"Eritrea"
-	],
-	[
-		"ee",
-		"Estonia (Eesti)"
-	],
-	[
-		"et",
-		"Ethiopia"
-	],
-	[
-		"fk",
-		"Falkland Islands (Islas Malvinas)"
-	],
-	[
-		"fo",
-		"Faroe Islands (Føroyar)"
-	],
-	[
-		"fj",
-		"Fiji (Matanitu Tugalala o Viti)"
-	],
-	[
-		"fi",
-		"Finland (Suomi)"
-	],
-	[
-		"fr",
-		"France (République française)"
-	],
-	[
-		"gf",
-		"French Guiana (Guyane française)"
-	],
-	[
-		"pf",
-		"French Polynesia (Polynésie française)"
-	],
-	[
-		"ga",
-		"Gabon (République gabonaise)"
-	],
-	[
-		"gm",
-		"Gambia"
-	],
-	[
-		"ge",
-		"Georgia (საქართველო)"
-	],
-	[
-		"de",
-		"Germany (Deutschland)"
-	],
-	[
-		"gh",
-		"Ghana (Gaana)"
-	],
-	[
-		"gi",
-		"Gibraltar"
-	],
-	[
-		"gr",
-		"Greece (Ελλάδα)"
-	],
-	[
-		"gl",
-		"Greenland (Kalaallit Nunaat)"
-	],
-	[
-		"gd",
-		"Grenada"
-	],
-	[
-		"gp",
-		"Guadeloupe"
-	],
-	[
-		"gu",
-		"Guam (Guåhån)"
-	],
-	[
-		"gt",
-		"Guatemala"
-	],
-	[
-		"gg",
-		"Guernsey"
-	],
-	[
-		"gn",
-		"Guinea (Guinée)"
-	],
-	[
-		"gw",
-		"Guinea-Bissau (Guiné Bissau)"
-	],
-	[
-		"gy",
-		"Guyana"
-	],
-	[
-		"ht",
-		"Haiti (République d'Haïti)"
-	],
-	[
-		"hn",
-		"Honduras"
-	],
-	[
-		"hk",
-		"Hong Kong (香港)"
-	],
-	[
-		"hu",
-		"Hungary (Magyarország)"
-	],
-	[
-		"is",
-		"Iceland (Ísland)"
-	],
-	[
-		"in",
-		"India (भारत)"
-	],
-	[
-		"id",
-		"Indonesia"
-	],
-	[
-		"ir",
-		"Iran (‫ایران‬‎)"
-	],
-	[
-		"iq",
-		"Iraq (‫العراق‬‎)"
-	],
-	[
-		"ie",
-		"Ireland"
-	],
-	[
-		"im",
-		"Isle of Man"
-	],
-	[
-		"il",
-		"Israel (‫ישראל‬‎)"
-	],
-	[
-		"it",
-		"Italy (Italia)"
-	],
-	[
-		"jm",
-		"Jamaica"
-	],
-	[
-		"jp",
-		"Japan (日本)"
-	],
-	[
-		"je",
-		"Jersey"
-	],
-	[
-		"jo",
-		"Jordan (‫الأردن‬‎)"
-	],
-	[
-		"kz",
-		"Kazakhstan (Казахстан)"
-	],
-	[
-		"ke",
-		"Kenya"
-	],
-	[
-		"ki",
-		"Kiribati"
-	],
-	[
-		"kw",
-		"Kuwait (‫الكويت‬‎)"
-	],
-	[
-		"kg",
-		"Kyrgyzstan (Кыргызстан)"
-	],
-	[
-		"la",
-		"Laos (ລາວ)"
-	],
-	[
-		"lv",
-		"Latvia (Latvija)"
-	],
-	[
-		"lb",
-		"Lebanon (‫لبنان‬‎)"
-	],
-	[
-		"ls",
-		"Lesotho"
-	],
-	[
-		"lr",
-		"Liberia"
-	],
-	[
-		"ly",
-		"Libya (‫ليبيا‬‎)"
-	],
-	[
-		"li",
-		"Liechtenstein"
-	],
-	[
-		"lt",
-		"Lithuania (Lietuva)"
-	],
-	[
-		"lu",
-		"Luxembourg (Lëtzebuerg)"
-	],
-	[
-		"mo",
-		"Macau (澳門)"
-	],
-	[
-		"mk",
-		"Macedonia (FYROM) (Македонија)"
-	],
-	[
-		"mg",
-		"Madagascar (Madagasikara)"
-	],
-	[
-		"mw",
-		"Malawi (Malaŵi)"
-	],
-	[
-		"my",
-		"Malaysia"
-	],
-	[
-		"mv",
-		"Maldives"
-	],
-	[
-		"ml",
-		"Mali"
-	],
-	[
-		"mt",
-		"Malta"
-	],
-	[
-		"mh",
-		"Marshall Islands"
-	],
-	[
-		"mq",
-		"Martinique"
-	],
-	[
-		"mr",
-		"Mauritania (‫موريتانيا‬‎)"
-	],
-	[
-		"mu",
-		"Mauritius (Moris)"
-	],
-	[
-		"yt",
-		"Mayotte"
-	],
-	[
-		"mx",
-		"Mexico (México)"
-	],
-	[
-		"fm",
-		"Micronesia"
-	],
-	[
-		"md",
-		"Moldova (Republica Moldova)"
-	],
-	[
-		"mc",
-		"Monaco"
-	],
-	[
-		"mn",
-		"Mongolia (Монгол)"
-	],
-	[
-		"me",
-		"Montenegro (Crna Gora)"
-	],
-	[
-		"ms",
-		"Montserrat"
-	],
-	[
-		"ma",
-		"Morocco (‫المغرب‬‎)"
-	],
-	[
-		"mz",
-		"Mozambique (Moçambique)"
-	],
-	[
-		"mm",
-		"Myanmar (Burma) (မြန်မာ)"
-	],
-	[
-		"na",
-		"Namibia (Namibië)"
-	],
-	[
-		"nr",
-		"Nauru (Repubrikin Naoero)"
-	],
-	[
-		"np",
-		"Nepal (नेपाल)"
-	],
-	[
-		"nl",
-		"Netherlands (Nederland)"
-	],
-	[
-		"nc",
-		"New Caledonia (Nouvelle-Calédonie)"
-	],
-	[
-		"nz",
-		"New Zealand"
-	],
-	[
-		"ni",
-		"Nicaragua"
-	],
-	[
-		"ne",
-		"Niger (Nijar)"
-	],
-	[
-		"ng",
-		"Nigeria"
-	],
-	[
-		"nu",
-		"Niue (Niuē)"
-	],
-	[
-		"nf",
-		"Norfolk Island"
-	],
-	[
-		"kp",
-		"North Korea (조선 민주주의 인민 공화국)"
-	],
-	[
-		"mp",
-		"Northern Mariana Islands"
-	],
-	[
-		"no",
-		"Norway (Norge)"
-	],
-	[
-		"om",
-		"Oman (‫عُمان‬‎)"
-	],
-	[
-		"pk",
-		"Pakistan (‫پاکستان‬‎)"
-	],
-	[
-		"pw",
-		"Palau (Beluu er a Belau)"
-	],
-	[
-		"ps",
-		"Palestine (‫فلسطين‬‎)"
-	],
-	[
-		"pa",
-		"Panama (Panamá)"
-	],
-	[
-		"pg",
-		"Papua New Guinea"
-	],
-	[
-		"py",
-		"Paraguay (Tetã Paraguái)"
-	],
-	[
-		"pe",
-		"Peru (Perú)"
-	],
-	[
-		"ph",
-		"Philippines (Republika ng Pilipinas)"
-	],
-	[
-		"pl",
-		"Poland (Polska)"
-	],
-	[
-		"pt",
-		"Portugal (República Portuguesa)"
-	],
-	[
-		"pr",
-		"Puerto Rico"
-	],
-	[
-		"qa",
-		"Qatar (‫قطر‬‎)"
-	],
-	[
-		"re",
-		"Réunion (La Réunion)"
-	],
-	[
-		"ro",
-		"Romania (România)"
-	],
-	[
-		"ru",
-		"Russia (Россия)"
-	],
-	[
-		"rw",
-		"Rwanda"
-	],
-	[
-		"bl",
-		"Saint Barthélemy (Saint-Barthélemy)"
-	],
-	[
-		"sh",
-		"Saint Helena"
-	],
-	[
-		"kn",
-		"Saint Kitts and Nevis"
-	],
-	[
-		"lc",
-		"Saint Lucia"
-	],
-	[
-		"mf",
-		"Saint Martin (Saint-Martin)"
-	],
-	[
-		"pm",
-		"Saint Pierre and Miquelon"
-	],
-	[
-		"vc",
-		"Saint Vincent and the Grenadines"
-	],
-	[
-		"ws",
-		"Samoa (Sāmoa)"
-	],
-	[
-		"sm",
-		"San Marino"
-	],
-	[
-		"st",
-		"São Tomé and Príncipe"
-	],
-	[
-		"sa",
-		"Saudi Arabia (‫المملكة العربية السعودية‬‎)"
-	],
-	[
-		"sn",
-		"Senegal (Sénégal)"
-	],
-	[
-		"rs",
-		"Serbia (Србија)"
-	],
-	[
-		"sc",
-		"Seychelles (Repiblik Sesel)"
-	],
-	[
-		"sl",
-		"Sierra Leone"
-	],
-	[
-		"sg",
-		"Singapore (Singapura) (新加坡共和国)"
-	],
-	[
-		"sx",
-		"Sint Maarten"
-	],
-	[
-		"sk",
-		"Slovakia (Slovensko)"
-	],
-	[
-		"si",
-		"Slovenia (Slovenija)"
-	],
-	[
-		"sb",
-		"Solomon Islands"
-	],
-	[
-		"so",
-		"Somalia (Soomaaliya)"
-	],
-	[
-		"za",
-		"South Africa"
-	],
-	[
-		"kr",
-		"South Korea (대한민국)"
-	],
-	[
-		"ss",
-		"South Sudan (‫جنوب السودان‬‎)"
-	],
-	[
-		"es",
-		"Spain (España)"
-	],
-	[
-		"lk",
-		"Sri Lanka (ශ්‍රී ලංකාව)"
-	],
-	[
-		"sd",
-		"Sudan (‫السودان‬‎)"
-	],
-	[
-		"sr",
-		"Suriname"
-	],
-	[
-		"sj",
-		"Svalbard and Jan Mayen"
-	],
-	[
-		"sz",
-		"Swaziland (Umbuso weSwatini)"
-	],
-	[
-		"se",
-		"Sweden (Sverige)"
-	],
-	[
-		"ch",
-		"Switzerland (Schweiz)"
-	],
-	[
-		"sy",
-		"Syria (‫سوريا‬‎)"
-	],
-	[
-		"tw",
-		"Taiwan (台灣)"
-	],
-	[
-		"tj",
-		"Tajikistan (Ҷумҳурии Тоҷикистон)"
-	],
-	[
-		"tz",
-		"Tanzania"
-	],
-	[
-		"th",
-		"Thailand (ไทย)"
-	],
-	[
-		"tl",
-		"Timor-Leste (Timór-Leste)"
-	],
-	[
-		"tg",
-		"Togo (République togolaise)"
-	],
-	[
-		"tk",
-		"Tokelau"
-	],
-	[
-		"to",
-		"Tonga"
-	],
-	[
-		"tt",
-		"Trinidad and Tobago"
-	],
-	[
-		"tn",
-		"Tunisia (‫تونس‬‎)"
-	],
-	[
-		"tr",
-		"Turkey (Türkiye)"
-	],
-	[
-		"tm",
-		"Turkmenistan (Türkmenistan)"
-	],
-	[
-		"tc",
-		"Turks and Caicos Islands"
-	],
-	[
-		"tv",
-		"Tuvalu"
-	],
-	[
-		"vi",
-		"U.S. Virgin Islands"
-	],
-	[
-		"ug",
-		"Uganda"
-	],
-	[
-		"ua",
-		"Ukraine (Україна)"
-	],
-	[
-		"ae",
-		"United Arab Emirates (‫الإمارات العربية المتحدة‬‎)"
-	],
-	[
-		"gb",
-		"United Kingdom"
-	],
-	[
-		"us",
-		"United States"
-	],
-	[
-		"uy",
-		"Uruguay"
-	],
-	[
-		"uz",
-		"Uzbekistan (Oʻzbekiston)"
-	],
-	[
-		"vu",
-		"Vanuatu"
-	],
-	[
-		"va",
-		"Vatican City (Città del Vaticano)"
-	],
-	[
-		"ve",
-		"Venezuela"
-	],
-	[
-		"vn",
-		"Vietnam (Việt Nam)"
-	],
-	[
-		"wf",
-		"Wallis and Futuna (Wallis-et-Futuna)"
-	],
-	[
-		"eh",
-		"Western Sahara (‫الصحراء الغربية‬‎)"
-	],
-	[
-		"ye",
-		"Yemen (‫اليمن‬‎)"
-	],
-	[
-		"zm",
-		"Zambia"
-	],
-	[
-		"zw",
-		"Zimbabwe"
-	]
+   [
+      "ru",
+      "+7 Russia (Россия)"
+   ],
+   [
+      "by",
+      "+375 Belarus (Беларусь)"
+   ],
+   [
+      "ua",
+      "+380 Ukraine (Україна)"
+   ],
+   [
+      "kz",
+      "+77 Kazakhstan (Казахстан)"
+   ],
+   [
+      "kg",
+      "+996 Kyrgyzstan (Кыргызстан)"
+   ],
+   [
+      "tj",
+      "+992 Tajikistan (Ҷумҳурии Тоҷикистон)"
+   ],
+   [
+      "uz",
+      "+998 Uzbekistan (Oʻzbekiston)"
+   ],
+   [
+      "ge",
+      "+7995 Georgia (საქართველო)"
+   ],
+   [
+      "lv",
+      "+371 Latvia (Latvija)"
+   ],
+   [
+      "az",
+      "+994 Azerbaijan (Azərbaycan)"
+   ],
+   [
+      "af",
+      "+93 Afghanistan (‫افغانستان‬‎)"
+   ],
+   [
+      "al",
+      "+355 Albania (Shqipëri)"
+   ],
+   [
+      "dz",
+      "+213 Algeria (‫الجزائر‬‎)"
+   ],
+   [
+      "ad",
+      "+376 Andorra"
+   ],
+   [
+      "ao",
+      "+244 Angola"
+   ],
+   [
+      "ar",
+      "+54 Argentina"
+   ],
+   [
+      "am",
+      "+374 Armenia (Հայաստան)"
+   ],
+   [
+      "aw",
+      "+297 Aruba"
+   ],
+   [
+      "au",
+      "+61 Australia"
+   ],
+   [
+      "at",
+      "+43 Austria (Österreich)"
+   ],
+   [
+      "bh",
+      "+973 Bahrain (‫البحرين‬‎)"
+   ],
+   [
+      "bd",
+      "+880 Bangladesh (বাংলাদেশ)"
+   ],
+   [
+      "bb",
+      "+809 Barbados"
+   ],
+   [
+      "be",
+      "+32 Belgium (België)"
+   ],
+   [
+      "bz",
+      "+501 Belize"
+   ],
+   [
+      "bj",
+      "+229 Benin (Bénin)"
+   ],
+   [
+      "bt",
+      "+975 Bhutan (འབྲུག)"
+   ],
+   [
+      "bo",
+      "+591 Bolivia"
+   ],
+   [
+      "ba",
+      "+387 Bosnia and Herzegovina"
+   ],
+   [
+      "bw",
+      "+267 Botswana"
+   ],
+   [
+      "br",
+      "+55 Brazil (Brasil)"
+   ],
+   [
+      "bn",
+      "+673 Brunei (Negara Brunei Darussalam)"
+   ],
+   [
+      "bg",
+      "+359 Bulgaria (България)"
+   ],
+   [
+      "bf",
+      "+226 Burkina Faso"
+   ],
+   [
+      "bi",
+      "+257 Burundi (Uburundi)"
+   ],
+   [
+      "kh",
+      "+855 Cambodia (កម្ពុជា)"
+   ],
+   [
+      "cm",
+      "+237 Cameroon (Cameroun)"
+   ],
+   [
+      "ca",
+      "+1 Canada"
+   ],
+   [
+      "cv",
+      "+238 Cape Verde (Kabu Verdi)"
+   ],
+   [
+      "cf",
+      "+236 Central African Republic"
+   ],
+   [
+      "td",
+      "+235 Chad (Tchad)"
+   ],
+   [
+      "cl",
+      "+56 Chile"
+   ],
+   [
+      "cn",
+      "+86 China (中国)"
+   ],
+   [
+      "cx",
+      "+61 Christmas Island"
+   ],
+   [
+      "cc",
+      "+61 Cocos (Keeling) Islands"
+   ],
+   [
+      "co",
+      "+57 Colombia"
+   ],
+   [
+      "km",
+      "+269 Comoros (‫جزر القمر‬‎)"
+   ],
+   [
+      "cd",
+      "+242 Congo (DRC) (Kongo)"
+   ],
+   [
+      "cg",
+      "+243 Congo (Republic) (Congo-Brazzaville)"
+   ],
+   [
+      "ck",
+      "+682 Cook Islands"
+   ],
+   [
+      "cr",
+      "+506 Costa Rica"
+   ],
+   [
+      "hr",
+      "+385 Croatia (Hrvatska)"
+   ],
+   [
+      "cu",
+      "+53 Cuba"
+   ],
+   [
+      "cy",
+      "+357 Cyprus (Κύπρος)"
+   ],
+   [
+      "cz",
+      "+420 Czech Republic (Česká republika)"
+   ],
+   [
+      "dk",
+      "+45 Denmark (Danmark)"
+   ],
+   [
+      "dj",
+      "+253 Djibouti"
+   ],
+   [
+      "ec",
+      "+593 Ecuador"
+   ],
+   [
+      "eg",
+      "+20 Egypt (‫مصر‬‎)"
+   ],
+   [
+      "sv",
+      "+503 El Salvador"
+   ],
+   [
+      "gq",
+      "+240 Equatorial Guinea (Guinea Ecuatorial)"
+   ],
+   [
+      "er",
+      "+291 Eritrea"
+   ],
+   [
+      "ee",
+      "+372 Estonia (Eesti)"
+   ],
+   [
+      "et",
+      "+251 Ethiopia"
+   ],
+   [
+      "fk",
+      "+500 Falkland Islands (Islas Malvinas)"
+   ],
+   [
+      "fo",
+      "+298 Faroe Islands (Føroyar)"
+   ],
+   [
+      "fj",
+      "+679 Fiji (Matanitu Tugalala o Viti)"
+   ],
+   [
+      "fi",
+      "+358 Finland (Suomi)"
+   ],
+   [
+      "fr",
+      "+33 France (République française)"
+   ],
+   [
+      "gf",
+      "+594 French Guiana (Guyane française)"
+   ],
+   [
+      "pf",
+      "+689 French Polynesia (Polynésie française)"
+   ],
+   [
+      "ga",
+      "+241 Gabon (République gabonaise)"
+   ],
+   [
+      "gm",
+      "+220 Gambia"
+   ],
+   [
+      "de",
+      "+49 Germany (Deutschland)"
+   ],
+   [
+      "gh",
+      "+233 Ghana (Gaana)"
+   ],
+   [
+      "gi",
+      "+350 Gibraltar"
+   ],
+   [
+      "gr",
+      "+30 Greece (Ελλάδα)"
+   ],
+   [
+      "gl",
+      "+299 Greenland (Kalaallit Nunaat)"
+   ],
+   [
+      "gp",
+      "+590 Guadeloupe"
+   ],
+   [
+      "gu",
+      "+671 Guam (Guåhån)"
+   ],
+   [
+      "gt",
+      "+502 Guatemala"
+   ],
+   [
+      "gn",
+      "+224 Guinea (Guinée)"
+   ],
+   [
+      "gw",
+      "+245 Guinea-Bissau (Guiné Bissau)"
+   ],
+   [
+      "gy",
+      "+592 Guyana"
+   ],
+   [
+      "ht",
+      "+509 Haiti (République d'Haïti)"
+   ],
+   [
+      "hn",
+      "+504 Honduras"
+   ],
+   [
+      "hk",
+      "+852 Hong Kong (香港)"
+   ],
+   [
+      "hu",
+      "+36 Hungary (Magyarország)"
+   ],
+   [
+      "is",
+      "+354 Iceland (Ísland)"
+   ],
+   [
+      "in",
+      "+91 India (भारत)"
+   ],
+   [
+      "id",
+      "+62 Indonesia"
+   ],
+   [
+      "ir",
+      "+98 Iran (‫ایران‬‎)"
+   ],
+   [
+      "iq",
+      "+964 Iraq (‫العراق‬‎)"
+   ],
+   [
+      "ie",
+      "+353 Ireland"
+   ],
+   [
+      "il",
+      "+972 Israel (‫ישראל‬‎)"
+   ],
+   [
+      "it",
+      "+39 Italy (Italia)"
+   ],
+   [
+      "jp",
+      "+81 Japan (日本)"
+   ],
+   [
+      "jo",
+      "+962 Jordan (‫الأردن‬‎)"
+   ],
+   [
+      "ke",
+      "+254 Kenya"
+   ],
+   [
+      "ki",
+      "+686 Kiribati"
+   ],
+   [
+      "kw",
+      "+965 Kuwait (‫الكويت‬‎)"
+   ],
+   [
+      "la",
+      "+856 Laos (ລາວ)"
+   ],
+   [
+      "lb",
+      "+961 Lebanon (‫لبنان‬‎)"
+   ],
+   [
+      "ls",
+      "+266 Lesotho"
+   ],
+   [
+      "lr",
+      "+231 Liberia"
+   ],
+   [
+      "ly",
+      "+218 Libya (‫ليبيا‬‎)"
+   ],
+   [
+      "li",
+      "+4175 Liechtenstein"
+   ],
+   [
+      "lt",
+      "+370 Lithuania (Lietuva)"
+   ],
+   [
+      "lu",
+      "+352 Luxembourg (Lëtzebuerg)"
+   ],
+   [
+      "mo",
+      "+853 Macau (澳門)"
+   ],
+   [
+      "mk",
+      "+389 Macedonia (FYROM) (Македонија)"
+   ],
+   [
+      "mg",
+      "+261 Madagascar (Madagasikara)"
+   ],
+   [
+      "mw",
+      "+265 Malawi (Malaŵi)"
+   ],
+   [
+      "my",
+      "+60 Malaysia"
+   ],
+   [
+      "mv",
+      "+960 Maldives"
+   ],
+   [
+      "ml",
+      "+223 Mali"
+   ],
+   [
+      "mt",
+      "+356 Malta"
+   ],
+   [
+      "mh",
+      "+692 Marshall Islands"
+   ],
+   [
+      "mq",
+      "+596 Martinique"
+   ],
+   [
+      "mr",
+      "+222 Mauritania (‫موريتانيا‬‎)"
+   ],
+   [
+      "mu",
+      "+230 Mauritius (Moris)"
+   ],
+   [
+      "yt",
+      "+269 Mayotte"
+   ],
+   [
+      "mx",
+      "+52 Mexico (México)"
+   ],
+   [
+      "fm",
+      "+691 Micronesia"
+   ],
+   [
+      "md",
+      "+373 Moldova (Republica Moldova)"
+   ],
+   [
+      "mc",
+      "+377 Monaco"
+   ],
+   [
+      "mn",
+      "+976 Mongolia (Монгол)"
+   ],
+   [
+      "ma",
+      "+212 Morocco (‫المغرب‬‎)"
+   ],
+   [
+      "mz",
+      "+258 Mozambique (Moçambique)"
+   ],
+   [
+      "mm",
+      "+95 Myanmar (Burma) (မြန်မာ)"
+   ],
+   [
+      "na",
+      "+264 Namibia (Namibië)"
+   ],
+   [
+      "nr",
+      "+674 Nauru (Repubrikin Naoero)"
+   ],
+   [
+      "np",
+      "+977 Nepal (नेपाल)"
+   ],
+   [
+      "nl",
+      "+31 Netherlands (Nederland)"
+   ],
+   [
+      "nc",
+      "+687 New Caledonia (Nouvelle-Calédonie)"
+   ],
+   [
+      "nz",
+      "+64 New Zealand"
+   ],
+   [
+      "ni",
+      "+505 Nicaragua"
+   ],
+   [
+      "ne",
+      "+227 Niger (Nijar)"
+   ],
+   [
+      "ng",
+      "+234 Nigeria"
+   ],
+   [
+      "no",
+      "+47 Norway (Norge)"
+   ],
+   [
+      "om",
+      "+968 Oman (‫عُمان‬‎)"
+   ],
+   [
+      "pk",
+      "+92 Pakistan (‫پاکستان‬‎)"
+   ],
+   [
+      "pa",
+      "+507 Panama (Panamá)"
+   ],
+   [
+      "pg",
+      "+675 Papua New Guinea"
+   ],
+   [
+      "py",
+      "+595 Paraguay (Tetã Paraguái)"
+   ],
+   [
+      "pe",
+      "+51 Peru (Perú)"
+   ],
+   [
+      "ph",
+      "+649 Philippines (Republika ng Pilipinas)"
+   ],
+   [
+      "pl",
+      "+48 Poland (Polska)"
+   ],
+   [
+      "pt",
+      "+351 Portugal (República Portuguesa)"
+   ],
+   [
+      "qa",
+      "+974 Qatar (‫قطر‬‎)"
+   ],
+   [
+      "re",
+      "+262 Réunion (La Réunion)"
+   ],
+   [
+      "ro",
+      "+40 Romania (România)"
+   ],
+   [
+      "rw",
+      "+250 Rwanda"
+   ],
+   [
+      "sh",
+      "+290 Saint Helena"
+   ],
+   [
+      "ws",
+      "+685 Samoa (Sāmoa)"
+   ],
+   [
+      "sm",
+      "+378 San Marino"
+   ],
+   [
+      "sa",
+      "+966 Saudi Arabia (‫المملكة العربية السعودية‬‎)"
+   ],
+   [
+      "sn",
+      "+221 Senegal (Sénégal)"
+   ],
+   [
+      "sc",
+      "+248 Seychelles (Repiblik Sesel)"
+   ],
+   [
+      "sl",
+      "+232 Sierra Leone"
+   ],
+   [
+      "sg",
+      "+65 Singapore (Singapura) (新加坡共和国)"
+   ],
+   [
+      "sk",
+      "+421 Slovakia (Slovensko)"
+   ],
+   [
+      "si",
+      "+386 Slovenia (Slovenija)"
+   ],
+   [
+      "sb",
+      "+677 Solomon Islands"
+   ],
+   [
+      "so",
+      "+252 Somalia (Soomaaliya)"
+   ],
+   [
+      "za",
+      "+27 South Africa"
+   ],
+   [
+      "es",
+      "+34 Spain (España)"
+   ],
+   [
+      "lk",
+      "+94 Sri Lanka (ශ්‍රී ලංකාව)"
+   ],
+   [
+      "sd",
+      "+249 Sudan (‫السودان‬‎)"
+   ],
+   [
+      "sr",
+      "+597 Suriname"
+   ],
+   [
+      "sz",
+      "+268 Swaziland (Umbuso weSwatini)"
+   ],
+   [
+      "se",
+      "+46 Sweden (Sverige)"
+   ],
+   [
+      "ch",
+      "+41 Switzerland (Schweiz)"
+   ],
+   [
+      "sy",
+      "+963 Syria (‫سوريا‬‎)"
+   ],
+   [
+      "tw",
+      "+886 Taiwan (台灣)"
+   ],
+   [
+      "tz",
+      "+255 Tanzania"
+   ],
+   [
+      "th",
+      "+66 Thailand (ไทย)"
+   ],
+   [
+      "tg",
+      "+228 Togo (République togolaise)"
+   ],
+   [
+      "to",
+      "+676 Tonga"
+   ],
+   [
+      "tn",
+      "+216 Tunisia (‫تونس‬‎)"
+   ],
+   [
+      "tr",
+      "+90 Turkey (Türkiye)"
+   ],
+   [
+      "tm",
+      "+993 Turkmenistan (Türkmenistan)"
+   ],
+   [
+      "tv",
+      "+688 Tuvalu"
+   ],
+   [
+      "ug",
+      "+256 Uganda"
+   ],
+   [
+      "ae",
+      "+971 United Arab Emirates (‫الإمارات العربية المتحدة‬‎)"
+   ],
+   [
+      "gb",
+      "+44 United Kingdom"
+   ],
+   [
+      "us",
+      "+1 United States"
+   ],
+   [
+      "uy",
+      "+598 Uruguay"
+   ],
+   [
+      "vu",
+      "+678 Vanuatu"
+   ],
+   [
+      "va",
+      "+39 Vatican City (Città del Vaticano)"
+   ],
+   [
+      "ve",
+      "+58 Venezuela"
+   ],
+   [
+      "vn",
+      "+84 Vietnam (Việt Nam)"
+   ],
+   [
+      "ye",
+      "+967 Yemen (‫اليمن‬‎)"
+   ],
+   [
+      "zm",
+      "+260 Zambia"
+   ],
+   [
+      "zw",
+      "+263 Zimbabwe"
+   ]
 ]
